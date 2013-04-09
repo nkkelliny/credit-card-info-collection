@@ -110,7 +110,7 @@ City/Zip code:</font></div>
 </div>
 <div id="bv_Text15" style="margin:0;padding:0;position:absolute;left:213px;top:387px;width:150px;height:16px;text-align:left;z-index:58;">
 <font style="font-size:13px" color="#000000" face="Arial">lbs. of soil if applicable:</font></div>
-<input type="text" id="Editbox12" style="position:absolute;left:212px;top:413px;width:48px;height:20px;border:1px #C0C0C0 solid;font-family:'Times New Roman';font-size:16px;z-index:59" name="lbs. of soil if applicable" value="">
-<input type="submit" id="Button1" name="Buy now" value="Buy now" style="position:absolute;left:209px;top:452px;width:75px;height:24px;font-family:Arial;font-size:13px;z-index:60">
+<input type="text" id="Editbox12" style="position:absolute;left:212px;top:413px;width:48px;height:20px;border:1px #C0C0C0 solid;font-family:'Times New Roman';font-size:16px;z-index:59" name="quantity of item(s)" value="">
+<input type="submit" id="Button1" name="Buy now" value="Buy now" style="position:absolute;left:209px;top:452px;width:75px;height:24px;font-family:Times New Roman;font-size:13px;z-index:60">
 </form>
 </div>
